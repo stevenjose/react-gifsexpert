@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: #ffffff;
+}
+
+.input-color{
+    color: #ffffff;
+}
+
+input{
+    color: black !important;
+    background: #ffffff !important;
+    height: 35px !important;
+}
